@@ -1,0 +1,8 @@
+{
+  "name": "Da Lô",
+  "description": "A modern, Zalo-inspired messaging platform featuring real-time chat, voice notes, social feed, and AI-powered assistance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
